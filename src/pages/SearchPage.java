@@ -1,11 +1,11 @@
-package Tests;
+package pages;
 
-public class HomePageTest {
+public class SearchPage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("New Test");
+		/*I use this page to search*/
 
 	}
 
