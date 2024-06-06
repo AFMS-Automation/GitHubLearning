@@ -6,6 +6,8 @@ public class Feature {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Fetaure 1");
+		
+		System.out.println("Training Day 1");
 
 	}
 
