@@ -1,11 +1,11 @@
-package Tests;
+package pages;
 
-public class LoginPageTest {
+public class AddPayment {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String gym ="Cult";
+		System.out.println("Paymaent page added");
 
 	}
 
